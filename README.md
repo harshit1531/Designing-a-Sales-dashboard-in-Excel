@@ -1,4 +1,4 @@
-# E-Commerce-Dashboard-using-EXCEL:
+#  	Designing a Sales dashboard in Excel:
 
 # `Objective:`
 
